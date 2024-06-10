@@ -1,0 +1,64 @@
+{
+	"workbench.colorTheme": "Default Dark+",
+	"files.autoSave": "onFocusChange",
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.closeEmptyGroups": false,
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"autoprefix": "last 5 version",
+			"extensionName": ".min.css",
+			"savePath": "/src/styles/css"
+		}
+	],
+	"vscodeGoogleTranslate.preferredLanguage": "EN",
+	"files.associations": {
+		"*.kit": "html",
+		"extensionName": ".html",
+		"savePath": "/"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"eslint.nodeEnv": "",
+	"workbench.statusBar.visible": true,
+	"editor.suggest.shareSuggestSelections": true,
+	"editor.suggest.showStatusBar": true,
+	"editor.linkedEditing": true,
+	"workbench.startupEditor": "none",
+	"editor.fontSize": 18,
+	"editor.wordWrap": "on",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.iconTheme": "vscode-icons",
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"editor.unicodeHighlight.invisibleCharacters": false,
+	"editor.unicodeHighlight.nonBasicASCII": false,
+	"prettier.tabWidth": 3,
+	// "[html]": {
+	//    "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "avoid",
+	"prettier.trailingComma": "none",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"window.zoomLevel": -1,
+	"liveSassCompile.settings.autoprefix": [],
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+	// "[typescript]": {
+	// 	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	// }
+}
